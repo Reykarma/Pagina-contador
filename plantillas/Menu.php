@@ -12,7 +12,7 @@
     </div>
     <div id="menu-cabecera">
         <ul>
-          <li><a href="#">Contacto</a></li>
+          <li><a href="contacto.php">Contacto</a></li>
           <li><a href="#">Nosotros</a></li>
           <li><a href="Servicios.php">Servicios</a></li>
           <li><a href="Index.php">Inicio</a></li>
