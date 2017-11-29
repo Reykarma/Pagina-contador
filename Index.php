@@ -10,7 +10,7 @@
     <article>
       <div id="portada">
         <ul
-
+fgf
           <li>
             <div class="texto-portada">
             <h2>¿Quienes somos?</h2>
