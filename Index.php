@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
   <head>
     <title>Inicio</title>
     <meta charset="utf-8">
@@ -10,6 +10,7 @@
     <article>
       <div id="portada">
         <ul
+fgf
           <li>
             <div class="texto-portada">
             <h2>¿Quienes somos?</h2>
