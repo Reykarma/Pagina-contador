@@ -3,8 +3,7 @@ html{
 }
 body{
   margin:  0;
-
- background-color:  #E0E0E0;
+ background-color:#bbcbca;
   width:auto;
   background-repeat: no-repeat;
   height:100%;
@@ -26,10 +25,37 @@ body{
     margin-top: 15px;
     margin-right: 10px;
   }
+
 .redes img{
   padding: 5px;
   width: 25px;
   height: auto;
+}
+
+.Contacto{
+  display: inline-block;
+}
+.Contacto img{
+width: 19px;
+height: auto;
+margin-top: 3px;
+margin-right: 3px;
+}
+
+.Contacto ul{
+  list-style: none;
+  margin-top: 0;
+  padding: 0;
+}
+.Contacto ul li{
+  float:left;
+  margin-top: 0;
+  color: #666666;
+}
+.Contacto ul li span{
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 15px;
+  margin-right: 25px;
 }
 
 .logo {
@@ -92,7 +118,8 @@ margin-bottom: 15px;
   height:505px;
   overflow: hidden;
   margin: auto;
-  background: #bbcbca;
+  /*background: #bbcbca;*/
+  background-image: url(../imagenes/contaduria-puerto-vallarta.jpg);
 }
 #portada ul{
   display: flex;
@@ -115,22 +142,25 @@ margin-bottom: 15px;
 .texto-portada{
   width: 100%;
   height: auto;
-  margin: 0 0 0 60px;
+  margin: 0 0 0 40px;
   position:relative;
 }
 .texto-portada h2{
   font-family: 'Kite One', sans-serif;
   text-align: left;
-  font-size: 30px;
   padding-top: 50px;
-  color: #f24c27;
+  font-size: 30px;
+  text-shadow: 5px 5px 5px #999999;
+  color:#072540;
 }
 .texto-portada p{
   font-family: 'Kite One', sans-serif;
   text-align: justify;
-  font-size: 25px;
-  color: #050c42;
+  font-size: 30px;
+  color:black;
   width:50%;
+  text-shadow: 5px 5px 5px #999999;
+  color: #072540;
 }
 
 #contenido{
@@ -148,6 +178,9 @@ margin-bottom: 15px;
 .Valores{
 width:70%;
 height:auto;
+padding-bottom: 25px;
+margin-top: 50px;
+display: inline-block;
 }
 .Valores h2{
   font-family: 'Titillium Web', sans-serif;
@@ -161,34 +194,43 @@ height:auto;
   font-style: italic;
   margin-top: 2px;
   text-align: left;
-  font-size: 20px;
-  color: #403E39;
+  font-size: 22px;
+  color: #1E4147;
+}
+.imagen-valores{
+width: 25%;
+height: 200px;
+margin-top: 50px;
+float: right;
+}
+.imagen-valores img{
+  width: 100%;
+  height: 100%;
 }
 .valor{
-  width: 277px;
+  width: 283px;
   height: auto;
   float: left;
-  background: #E0E0E0;
-
+  background: #e5e1f9;
+  margin-top: 50px;
 }
 .valor h3{
   text-align: left;
   margin-left: 10px;
   font-family: 'Kite One', sans-serif;
   font-weight: bold;
-  color: #924722;
+  color: #0f0147;
 }
 .valor p{
   font-family: 'Kite One', sans-serif;
-  font-size: 19px;
+  font-size: 21px;
   text-align: left;
   margin-left: 5px;
-  color: #354736;
+  color: #202020;
   padding: 15px;
 }
 /*-----------------------------------------*/
-/*CSS del cuerpo Servicios.php*/
-
+/*Css del titulo de cada pagina*/
 .Ubicacion{
   width: 100%;
   margin: 0 auto;
@@ -198,15 +240,26 @@ height:auto;
   padding-bottom: 20px;
 }
 
-.Ubicacion h2{
+.Ubicacion h1{
   font-family: 'Kite One', sans-serif;
   font-size: 38px;
   text-align: center;
-  color: #f24c27;
+  color: #020E17;
   border-bottom: 3px solid;
   border-color: #01579B;
 }
-
+.Texto_ubicacion p{
+  width: 80%;
+  margin: 0 auto;
+  text-align:justify;
+  padding:20px 30px 0 30px;
+  padding-left: 10px;
+  font-family:'Titillium Web', sans-serif;
+  font-size: 30px;
+  font-style: italic;
+  color: #050c42;
+}
+/*CSS del cuerpo Servicios.php*/
 .servicios{
   clear: both;
   width:95%;
@@ -217,136 +270,131 @@ height:auto;
 }
 .servicio{
 width: 380px;
-height: 300px;
-background: gray;
-display: inline-block;
-margin-bottom: 10px;
-margin-left: 12px;
-border-radius: 10px;
+height: 380px;
+float: left;
+margin: 10px 0 20px 12px;
 }
-.servicio img{
-  width: 100%;
-  height: 100%;
-  border-radius: 10px;
-  float: left;
+.servicio:hover .icono-servicio{
+  background: #0585f2;
 }
-.servicio h3{
-  width: 29%;
-  position: absolute;
-  padding: 10px;
+.icono-servicio{
+  float:left;
+  width: 100px;
+  height: 100px;
+  border-radius: 250px;
 }
-.servicio p{
-  width: 29%;
-  margin: 0;
-  position: absolute;
-  margin-top: 3%;
-  padding: 12px;
-}
-/*CSS del contacto*/
-.mapa{
-  width: 100%;
-  height: 500px;
-  clear: both;
-  text-align:right;
-}
-.mapa iframe{
-  border:none;
-  border-radius: 5px;
-  width: 100%;
-  height: 400px;
-}
-div img{
-  width: 100%;
-  height: 350px;
-  }
-p{
-  color: #993300;
-}
- h1 p {
-  border:none;
-  clear: both;
-  font-family: 'Kite One', sans-serif;
-  font-size: 30px;
-  text-align: center;
-}
-h2{
-  font-family:'Titillium Web', sans-serif;
-}
-form{
-  position: relative;
-  clear: both;
-  text-align: left;
+.texto-servicio{
+  display: inline-block;
+  padding: 15px;
+  text-align: justify;
   width: 200px;
 }
-*:focus {
-    outline: none;
+.texto-servicio h3{
+  font-family:'Titillium Web', sans-serif;
+  color: #0f0147;
 }
-.contact_form h2, .contact_form label {
-    font-family: Georgia, Times, "Times New Roman", serif;
-}
-.contact_form ul {
-    width: 750px;
-    list-style-type: none;
-    list-style-position: outside;
-    margin: 0px;
-    padding: 0px;
+.texto-servicio p{
+font-family: 'Kite One', sans-serif;
+font-size: 20px;
+width: 250px;
+height: 100%;
+color: #1E4147;
 }
 
-.contact_form li {
-    padding: 12px;
-    border-bottom: 1px solid #eee;
-    position: relative;
+/*CSS del contacto*/
+.Texto-Contacto{
+  margin: 50px 0 40px 0;
+  width: 100%;
+  background: #e5e1f9;
+  display: inline-block;
+  border-radius: 10px;
 }
-.contact_form h2 {
-    margin: 0;
-    display: inline;
+.Texto-Contacto span{
+  display: inline-block;
+  margin-left: 40px;
 }
-.contact_form label {
-    width: 150px;
-    margin-top: 3px;
+.Texto-Contacto h4{
+  font-family: 'Kite One', sans-serif;
+  color : #FF2900;
+  float: left;
+  padding-top:0px;
+  font-size: 20px;
+  text-shadow: 5px 5px 5px #999999;
+}
+.Texto-Contacto p{
+  font-family: 'Kite One', sans-serif;
+  font-size: 30px;
+  float: left;
+  margin-left:10px;      padding-top:7px;
+  margin-right: 100px;
+  text-shadow: 5px 5px 5px #999999;
+}
+  .Formulario-contacto{
+    width: 40%;
+    height: 500px;
+    background-color:white;
+    border-top: solid 8px #f39b53;
     display: inline-block;
-    float: left;
-    padding: 3px;
-}
+    margin-top: 30px;
+    margin-left: 15px;
+    border-radius: 20px;
+  }
+  .Formulario-contacto span {
+    font-family: 'Titillium Web', sans-serif;
+    width: 100%;
+  text-align: center;
+  text-shadow: 5px 5px 5px #999999;
+  }
 
-.contact_form input {
-    height: 20px;
-    width: 220px;
-    padding: 5px 8px;
-}
-
-.contact_form textarea {
-    width: 300px;
-}
-
-.contact_form button {
-    margin-left: 156px;
-}
-.contact_form input, .contact_form textarea {
-    border: 1px solid #aaa;
-    box-shadow: 0px 0px 3px #ccc, 0 10px 15px #eee inset;
-    border-radius: 2px;
-    padding-right: 30px;
-}
- .contact_form textarea:focus {
-        background: #fff;
-        border: 1px solid #555;
-        box-shadow: 0 0 3px #aaa;
-        padding-right: 70px;
-    }
-button.submit {
-    background: -webkit-linear-gradient(top, #68b12f, #50911e);
-    border-bottom: 1px solid #5b992b;
-    border-radius: 3px;
-    
+  .contacto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .contacto input, .boton{
+    background-color: white;
+    border: none;
+    border-bottom: solid #C8C8C8;
+  }
+  .contacto input:focus{
+border-bottom: solid #f39b53;
+  }
+  .contacto textarea{
+    resize: none;
+  }
+  .contacto p{
+    margin:30px 0 5px 0;
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .boton{
+    display: flex;
+    height: 50px;
+    justify-content: space-around;
+    margin-top:0px;
+    border-bottom: none;
+    background-color: #31B1E5;
     color: white;
-    font-weight: bold;
-    padding: 6px 20px;
-    text-align: left;
+  }
+  .boton input{
+    width: 140px;
+  }
+
+  .boton:hover{
+    background-color: #4C9ED9;
+  }
+
+  .mapa{
+    width: 55%;
+    margin: 30px 15px 40px 0;
+    float: right;
     }
-button.submit:hover {
-        opacity: .90;
+  .mapa iframe{
+      border:none;
+      width: 100%;
+      height: 665px;
     }
+
 
 /*CSS del pie de pagina*/
 #Pie-pagina{
@@ -359,5 +407,3 @@ button.submit:hover {
   border-radius: 0 0 10px 10px;
   border-top: 5px solid #01579B;
 }
-
-

@@ -1,11 +1,23 @@
 <header>
   <div id="cabecera">
     <div class="redes">
-      <span><a href="#"><img src="iconos/google-plus.png" alt=""></a></span>
+      <span><a href="#"><img src="imagenes/iconos/google-plus.png" alt=""></a></span>
 
-      <span> <a href="#"><img src="iconos/instagram.png" alt=""></a></span>
+      <span> <a href="#"><img src="imagenes/iconos/instagram.png" alt=""></a></span>
 
-      <span> <a href="#"><img src="iconos/facebook.png" alt=""></a></span>
+      <span> <a href="#"><img src="imagenes/iconos/facebook.png" alt=""></a></span>
+    </div>
+    <div class="Contacto">
+      <ul>
+        <li>
+          <img src="imagenes/iconos/telefono.png" alt="">
+        </li>
+        <li> <span>32323232</span></li>
+        <li>
+          <img src="imagenes/iconos/correo.png" alt="">
+        </li>
+        <li><span>Armando567@hotmail.com</span></li>
+      </ul>
     </div>
     <div class="logo">
       <img src="imagenes/Logo.png" alt ="logo">
