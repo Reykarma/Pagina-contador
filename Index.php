@@ -14,13 +14,13 @@
             <div class="texto-portada">
             <h2>¿Quienes somos?</h2>
             <p>
-            Somos una empresa comprometida con 3 años de experiencia en Puerto Vallarta, trabajamos con mas de 10 establecimientos.</p>
+            Somos una empresa comprometida con nuestros clientes, garantizamos un servicio de calidad bajo las leyes contables</p>
           </li>
           </div>
           <li><div class="texto-portada">
             <h2>¿Porque elegirnos?</h2>
             <p>
-          Tenemos gente preparada el cual le dara el mejor servicio a nuestra disposicion, ademas de que nuestros años de experiencia y clientes satisfechos nos respaldan.
+          Tenemos gente preparada el cual le dara el mejor servicio a nuestra disposicion, ademas de que nuestros años de experiencia y clientes satisfechos nos respaldan
           </p>
           </div>
         </li>
@@ -30,28 +30,27 @@
       <div id="contenido">
         <div class="Texto">
           <div class="Valores">
-             <h2>Nuestros valores</h2>
-            <p><h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut </h4></p> 
+             <h2>Para comprometernos con nuestros clientes, tenemos principios:</h2>
 
           </div>
           <div class="imagen-valores">
             <img src="imagenes/contador-puerto-vallarta.png" alt="Nuestros-valores-contador">
           </div>
           <div class="valor">
-            <h3>valor1</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
+            <h3>Ética</h3>
+            <p>Todo personal de la empresa cuenta con un conjunto de principios morales tanto humanos como profesionales que posee el individuo necesario para el desarrollo de sus actividades dentro de la empresa.</p>
           </div>
           <div class="valor">
-            <h3>valor2</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
+            <h3>Confidencialidad</h3>
+            <p>Asegurar la información del contribuyente, únicamente manejada por el personal autorizado</p>
           </div>
           <div class="valor">
-            <h3>valor3</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
+            <h3>Confiabilidad y veracidad: </h3>
+            <p>Se cuenta con la certeza de que las operaciones y la información que emana de estas son efectivamente correctas y reales con referencia en el marco contable legal.</p>
           </div>
           <div class="valor">
-            <h3>valor4</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
+            <h3>Legalidad:</h3>
+            <p>El contribuyente tendrá la certeza de que las actividades que se realizan están apegadas a las normas contables vigentes en el país</p>
           </div>
         </div>
       </div>

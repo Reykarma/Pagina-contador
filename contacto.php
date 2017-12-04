@@ -13,9 +13,9 @@
                 <h1>Contacto</h1>
             </div>
             <div class="Texto-Contacto">
-              <span> <h4>Telefono:</h4><p>322123322</p> </span>
-              <span> <h4>Celular:</h4><p>23212332</p></span>
-              <span> <h4>Correo:</h4><p>adashda@gmail</p> </span>
+              
+              <span> <h4>Celular:</h4><p>3221378394</p></span>
+              <span> <h4>Correo:</h4><p>contablesvallarta@gmail.com</p> </span>
             </div>
             <div class="Formulario-contacto">
               <span><h2>¡¡Contactenos!!</h2></span>

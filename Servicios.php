@@ -13,7 +13,7 @@
           <h1>Servicios</h1>
         </div>
         <div class="Texto_ubicacion">
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<p>
+          <p>Actualmente trabajamos con los siguientes servicios:<p>
         </div>
         <div class="servicios">
           <div class="servicio">
@@ -35,7 +35,7 @@
             </div>
             <div class="texto-servicio">
               <h3>Auditoria</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco </p>
+              <p>Servicios de revisión y evaluacion de los procesoscontables, administrativos y operativos de la empresa.</p>
             </div>
             </div>
 
@@ -57,8 +57,8 @@
               </span>
             </div>
             <div class="texto-servicio">
-              <h3>Auditoria</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco </p>
+              <h3>Contables</h3>
+              <p>Servicio en captura de ingresos y egresos para el control de la empresa</p>
             </div>
             </div>
             <div class="servicio">
@@ -79,8 +79,8 @@
                 </span>
               </div>
               <div class="texto-servicio">
-                <h3>Auditoria</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco </p>
+                <h3>Fiscales</h3>
+                <p>Asesoria en el cumplimiento de las obligaciones ante las instituciones Federales, Estatales, y asi como su pago en tiempo y forma</p>
               </div>
               </div>
               <div class="servicio">
@@ -101,8 +101,8 @@
                   </span>
                 </div>
                 <div class="texto-servicio">
-                  <h3>Auditoria</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco </p>
+                  <h3>Finanieros</h3>
+                  <p>Asesoramiento en el manejo del capital y uso de servicios bancarios</p>
                 </div>
               </div>
               <div class="servicio">
@@ -123,31 +123,9 @@
                   </span>
               </div>
               <div class="texto-servicio">
-                <h3>Auditoria</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco </p>
+                <h3>Administrativos</h3>
+                <p>Apoyo en los procesos administrativos para hacerlos mas rápidos y efectivos, toma de desiciones en base a los estados de resultados </p>
               </div>
-              </div>
-                <div class="servicio">
-                  <div class="icono-servicio">
-                    <span id="icono6">
-                      <style type="text/css">
-                      #icono6{
-                        float: left;
-                        width: 64px;
-                        height: 64px;
-                        margin: 17px 0 0 17px;
-                        background-image: url(imagenes/servicios/otro2-puerto-vallarta.png);
-                      }
-                      .servicio:hover #icono6{
-                        background-image: url(imagenes/servicios/otro2-puerto-vallartaa.png);
-                      }
-                      </style>
-                    </span>
-                  </div>
-                  <div class="texto-servicio">
-                    <h3>Auditoria</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco </p>
-                  </div>
               </div>
         </div>
       </article>

@@ -12,11 +12,11 @@
         <li>
           <img src="imagenes/iconos/telefono.png" alt="">
         </li>
-        <li> <span>32323232</span></li>
+        <li> <span>3221378394</span></li>
         <li>
           <img src="imagenes/iconos/correo.png" alt="">
         </li>
-        <li><span>Armando567@hotmail.com</span></li>
+        <li><span>contablesvallarta@gmail.com</span></li>
       </ul>
     </div>
     <div class="logo">
@@ -28,9 +28,9 @@
       <nav>
         <ul>
           <li><a href="Index.php">Inicio</a></li>
-          <li><a   href="contacto.php">Contacto</a></li>
           <li><a href="Nosotros.php">Nosotros</a></li>
           <li><a href="Servicios.php">Servicios</a></li>
+          <li><a href="contacto.php">Contacto</a></li>
         </ul>
     </div>
     </nav>

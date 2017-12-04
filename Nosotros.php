@@ -16,17 +16,16 @@
             <img src="imagenes/avatar.png" alt="">
           </div>
           <div class="presentacion-Nosotros">
-            <h3>Lic.Francisca guzman Loera</h3>
-            <h4>Licenciada en Contaduria</h4>
+            <h3>Despacho "Contables vallarta"</h3>
             <p>Somos una empresa responsable, que sabe como tratar a nuestros clientes dando el mejor servicio posible y conforma la ley lo dicta.</p>
           </div>
           <div class="Mision-vision">
             <h4>Mision</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <p>Brindar un servicio confiable y de calidad conforme a las normas contables vigentes en el país.</p>
           </div>
           <div class="Mision-vision">
             <h4>Vision</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <p>Ayudar al contribuyente, sea persona física o moral, con el registro de sus operaciones y transacciones financieras, facilitando así el uso de la información que emana de esta y al mismo tiempo necesaria para la realización de las declaraciones.</p>
           </div>
 
       <article/>
