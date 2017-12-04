@@ -22,13 +22,17 @@
     <div class="logo">
       <img src="imagenes/Logo.png" alt ="logo">
     </div>
+    <input type="checkbox" id="boton-menu">
+    <label for="boton-menu"><img src="imagenes/iconos/menu.png" alt=""></label>
     <div id="menu-cabecera">
+      <nav>
         <ul>
-          <li><a href="contacto.php">Contacto</a></li>
+          <li><a href="Index.php">Inicio</a></li>
+          <li><a   href="contacto.php">Contacto</a></li>
           <li><a href="Nosotros.php">Nosotros</a></li>
           <li><a href="Servicios.php">Servicios</a></li>
-          <li><a href="Index.php">Inicio</a></li>
         </ul>
     </div>
+    </nav>
   </div>
 </header>

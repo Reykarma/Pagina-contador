@@ -30,8 +30,9 @@
       <div id="contenido">
         <div class="Texto">
           <div class="Valores">
-            <h2>Nuestros valores</h2>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut </h4>
+             <h2>Nuestros valores</h2>
+            <p><h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut </h4></p> 
+
           </div>
           <div class="imagen-valores">
             <img src="imagenes/contador-puerto-vallarta.png" alt="Nuestros-valores-contador">
