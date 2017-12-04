@@ -301,6 +301,49 @@ height: 100%;
 color: #1E4147;
 }
 
+/*CSS del apartado Nosotros*/
+.fotografia{
+  width: 250px;
+  margin: auto;
+}
+.fotografia img{
+  margin-top: 50px;
+  width: 100%;
+  box-shadow: 8px 8px 8px #e5e1f9;
+}
+.presentacion-Nosotros{
+  width: 500px;
+  margin: auto;
+  text-align: center;
+}
+.presentacion-Nosotros h3,h4{
+  font-family:'Titillium Web', sans-serif;
+}
+.presentacion-Nosotros p{
+  font-family: 'Kite One', sans-serif;
+  text-align: justify;
+  font-size: 18px;
+}
+.Mision-vision{
+  width: 400px;
+  height: 300px;
+  display: inline-block;
+  margin: 40px 0 40px 155px;
+  box-shadow: 10px 10px 10px #e5e1f9;
+  border: solid 3px;
+  border-color: #0585f2;
+  border-radius: 10px;
+}
+.Mision-vision h4{
+  font-size: 20px;
+  text-align: center;
+}
+.Mision-vision p{
+  font-family: 'Kite One', sans-serif;
+  padding: 0 10px 0 10px;
+  font-size: 18px;
+}
+
 /*CSS del contacto*/
 .Texto-Contacto{
   margin: 50px 0 40px 0;
@@ -338,6 +381,7 @@ color: #1E4147;
     margin-top: 30px;
     margin-left: 15px;
     border-radius: 20px;
+    box-shadow: 10px 10px 10px #e5e1f9;
   }
   .Formulario-contacto span {
     font-family: 'Titillium Web', sans-serif;
