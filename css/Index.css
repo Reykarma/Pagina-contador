@@ -703,3 +703,103 @@ body{
     margin: 0;
   }
 }
+
+@media screen and (max-width:360px){
+  #menu-cabecera{
+    width: 340px;
+    top:280px;
+  }
+  .redes{
+    width: 50%;
+    height: 60px;
+    float: none;
+    position:inherit;
+    display: block;
+    margin: 0 auto;
+  }
+  .Contacto ul li{
+    float: none;
+  }
+  .texto-portada{
+    margin-left: 25px;
+  }
+  .Valores h2{
+    width: 320px;
+    height: 100px;
+  }
+  .Mision-vision{
+    width: 330px;
+    margin-left: 0px;
+  }
+  .presentacion-Nosotros h3,h4{
+    width:330px;
+  }
+  .presentacion-Nosotros p{
+    width: 320px;
+  }
+  .Mision-vision{
+    width: 330px;
+    margin-left: 0px;
+  }
+  .Texto-Contacto p{
+    font-size: 20px;
+  }
+  .Texto_ubicacion p{
+    font-size: 20px;
+  }
+  .texto-servicio h3{
+    width: 320px;
+  }
+  .texto-servicio p{
+    width: 320px;
+    font-size: 17px;
+  }
+}
+
+@media screen and (max-width:320px){
+  #menu-cabecera{
+    width: 300px;
+    top:280px;
+  }
+  .redes{
+    width: 50%;
+    height: 60px;
+    float: none;
+    position:inherit;
+    display: block;
+    margin: 0 auto;
+  }
+  .Valores h2{
+    width: 320px;
+    height: 100px;
+  }
+.Contacto ul li{
+  float: none;
+}
+  .texto-portada{
+    margin-left: 25px;
+  }
+  .presentacion-Nosotros h3,h4{
+    width:300px;
+  }
+  .presentacion-Nosotros p{
+    width: 290px;
+  }
+  .Mision-vision{
+    width: 290px;
+    margin-left: 0px;
+  }
+  .Texto-Contacto p{
+    font-size: 20px;
+  }
+  .Texto_ubicacion p{
+    font-size: 20px;
+  }
+  .texto-servicio h3{
+    width: 280px;
+  }
+  .texto-servicio p{
+    width: 280px;
+    font-size: 17px;
+  }
+  }
